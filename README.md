@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🖼️ Image Caption Generator using CNN-LSTM
 
 This is a Deep Learning mini-project for **EC9170 - Deep Learning for Electrical & Computer Engineers**, University of Jaffna (April 2025). The project implements an end-to-end image captioning system using a custom-built CNN for feature extraction and an LSTM-based decoder for sequence generation.
@@ -159,7 +158,3 @@ ImageCaptionGenerator_CNN_LSTM/
 * [Kaggle](https://www.kaggle.com/)
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
 * [YouTube Tutorial](https://youtu.be/3H1x8SDYgvQ?si=1ERw_4PIOV-8UY3c)
-=======
-# ImageCaptionGenerator_CNN_LSTM
-Deep Learning mini-project using custom CNN and LSTM to generate image captions.
->>>>>>> 57a55407e7bef26e65b1ad719a6a3e0420ddd5b6
